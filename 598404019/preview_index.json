@@ -1,7 +1,7 @@
 {
   "qq_number": "3250224856",
   "group_number": "598404019",
-  "updated_at": "2026-06-12T22:14:43+00:00",
+  "updated_at": "2026-06-13T09:52:14+00:00",
   "skins": [
     {
       "name": "D永374",
@@ -416,6 +416,12 @@
       "file": "永382.bds",
       "thumb": "永382.bds_py_26_light_thumb.png",
       "full": "永382.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "永383",
+      "file": "永383.bdi",
+      "thumb": "永383.bdi_py_26_light_thumb.png",
+      "full": "永383.bdi_py_26_light_thumb.png"
     }
   ]
 }
